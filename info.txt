@@ -7,8 +7,5 @@ siva2
 kothapeta
 rajula colony
 hyderabad
-<<<<<<< HEAD
 ayravenkat
-=======
 madanapalle
->>>>>>> 3b42b828a26532b336f6809d872ad8d7a48d9889
