@@ -2,11 +2,8 @@ manoja
 siva 
 ayra
 kothapeta
-<<<<<<< HEAD
 
 siva2
 kothapeta
 rajula colony
-=======
 hyderabad
->>>>>>> 0b56d3dd85eef000473f83170fa372090a22f217
