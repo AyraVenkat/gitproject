@@ -12,7 +12,5 @@ hyderabad
 ayravenkat
 madanapalle
 git fetch
-<<<<<<< HEAD
-conflict
-=======
->>>>>>> bb66870701b132a4a0eda1ff876abacc21bcd1a4
+
+merge
