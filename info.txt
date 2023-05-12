@@ -1,3 +1,4 @@
+new pull
 merge continues
 conflict continues
 fectch
