@@ -1,3 +1,4 @@
+new pull
 merge continues
 conflict continues
 fectch
@@ -17,4 +18,7 @@ git fetch
 merge
 merge 2
 git new
+<<<<<<< HEAD
 git pull
+=======
+>>>>>>> 5562e4fd732bb205bd25310122a5258c789e5c4b
