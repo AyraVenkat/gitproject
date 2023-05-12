@@ -17,3 +17,4 @@ git fetch
 merge
 merge 2
 git new
+git pull
