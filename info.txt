@@ -16,11 +16,8 @@ hyderabad
 ayravenkat
 madanapalle
 git fetch
-
+add
 merge
 merge 2
 git new
-<<<<<<< HEAD
 git pull
-=======
->>>>>>> 5562e4fd732bb205bd25310122a5258c789e5c4b
